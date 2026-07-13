@@ -1,0 +1,22 @@
+# latex temp files
+
+*.aux
+*.log
+*.bbl
+*.blg
+*.idx
+*.synctex.gz
+*.out
+*.ind
+*.lof
+*.lot
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.fls
+*.fdb_latexmk
